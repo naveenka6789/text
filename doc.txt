@@ -7,3 +7,4 @@ javascript
 react
 PHP
 python
+mysql
