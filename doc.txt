@@ -6,3 +6,4 @@ bootstrap
 javascript
 react
 PHP
+python
